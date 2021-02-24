@@ -1,2 +1,2 @@
 # LeetCode-Challenge
-Consists of leetcode monthly challenges.
+Consists of leetcode problems.
